@@ -1,0 +1,44 @@
+*{
+      scroll-behavior: smooth
+}
+body{
+    background-color: cyan;
+}
+
+.box1{
+    background-color:aqua;
+    border-top: solid 5px red;
+    border-left: solid 10px red;
+    border-right: solid 10px red;
+    border-bottom: solid 10px red;
+    margin: 50px;
+}
+
+.imagem{
+    width: 60vw;
+    height: 50vh;
+    border: solid 10px black;
+}
+.porao{ 
+width: 40vw;
+height: 60vh;
+border: dashed 5px black;
+border-radius: 40px;
+}
+
+.oc{
+    margin-top: 100px;
+    border: solid 10px black;
+    background-color: rgb(38, 89, 50);
+}
+
+.preço{
+    background-color: crimson;
+    border: solid 5px black;
+    border-radius: 40px;
+}
+
+.loli22{
+    border: solid 5px black;
+    border-radius: 40px;
+}
